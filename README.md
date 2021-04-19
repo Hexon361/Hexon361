@@ -27,5 +27,5 @@
 
 
 
-[website]: https://TrujcaRDM.PL
+[website]: https://Trujca.PL
 [instagram]: https://instagram.com/Hexon361
