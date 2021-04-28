@@ -23,7 +23,7 @@
 ---
 
 <summary>GitHub Stats:</summary>
-<img align="left" alt="staty" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=synthwave" />
+<img align="left" alt="staty" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=synthwave&hide_border=true" />
 
 
 
