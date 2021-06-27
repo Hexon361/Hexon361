@@ -2,14 +2,14 @@
 
 
 
-### Connect with me:
+### 🤙:
 
-[<img align="left" alt="Trujca.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hexon361 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Trujca.gg" width="30px" src="https://image.flaticon.com/icons/png/512/1450/1450169.png" />][website]
+[<img align="left" alt="Hexon361 | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### 🛠️:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -22,9 +22,9 @@
 
 ---
 
-<img align="left" alt="staty" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=synthwave&hide_border=true" />
+<img align="left" alt="staty" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=radical&hide_border=true" />
 
 
 
-[website]: https://Trujca.PL
+[website]: https://trujca.pl
 [instagram]: https://instagram.com/Hexon361
