@@ -4,7 +4,7 @@
 
 ### 🤙:
 
-[<img align="left" alt="Hexon361 | Instagram" width="30px" target="_blank" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
+[<img align="left" target="_blank" alt="Hexon361 | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
 
 <br />
 
@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="staty" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=radical&hide_border=true" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=midnight-purple&hide_border=true&title_color=403dff&icon_color=403dff" />
 
 
 
