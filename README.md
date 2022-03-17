@@ -1,14 +1,10 @@
-### Hexon361 🦍
+### Hexon361
 
 
-
-### 🤙:
-
-[<img align="left" target="_blank" alt="Hexon361 | Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
-
+[<img align="left" target="_blank" alt="Hexon361 | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/1077/1077042.png" />][instagram]
 <br />
 
-### 🛠️:
+---
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -22,8 +18,7 @@
 
 ---
 
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Hexon361&show_icons=true&theme=midnight-purple&hide_border=true&title_color=403dff&icon_color=403dff" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hexon361&show_icons=true&theme=midnight-purple&hide_border=true&title_color=403dff&icon_color=403dff"/>
 
 
 [instagram]: https://instagram.com/Hexon361
